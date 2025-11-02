@@ -21,6 +21,7 @@
 🚀 My journey started with simple Arduino projects and grew into a passion for **Machine Learning**, **Computer Vision**, and **Automation**.  
 🧠 I believe in the philosophy of **continuous learning** — improving a little every day through code, creativity, and collaboration.  
 🎯 My goal is to become a developer who **bridges hardware and intelligence** to shape the future of robotics and AI.
+
 🤖 I especially enjoy creating robotics projects and diving deep into how systems work through reverse engineering.
 ⚡ My passion also extends to electrical and electronics engineering, designing circuits and integrating hardware with software.
 
