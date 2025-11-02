@@ -8,18 +8,26 @@
 
 ---
 
+### 🧭 About Me
+
+<p align="center">
+  <em>
+    “Technology is not just about code — it's about creating intelligence that moves, thinks, and evolves.”
+  </em>
+</p>
+
+✨ I'm a **curious mind** exploring the intersection of **software, robotics, and artificial intelligence**.  
+💡 I love building things that **move**, **learn**, and **adapt** — from smart robotic systems to AI-driven applications.  
+🚀 My journey started with simple Arduino projects and grew into a passion for **Machine Learning**, **Computer Vision**, and **Automation**.  
+🧠 I believe in the philosophy of **continuous learning** — improving a little every day through code, creativity, and collaboration.  
+🎯 My goal is to become a developer who **bridges hardware and intelligence** to shape the future of robotics and AI.
+
+---
+
 ### 🏆 GitHub Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=8&row=1" alt="GitHub Trophies" />
 </p>
-
----
-
-### 🧠 About Me
-💡 Passionate about **robotics**, **AI**, and **software engineering**.  
-🚀 Exploring **Machine Learning**, **ROS**, and **Computer Vision**.  
-🤖 Skilled in **Arduino**, **Python**, and **C++** for embedded automation.  
-🌱 Always curious, always building something new.  
 
 ---
 
@@ -30,7 +38,7 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,flutter" />
 </p>
 
-#### 🧰 Development Tools & Platforms
+#### 🧰 Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,docker,aws,mysql,sqlite" />
 </p>
@@ -39,12 +47,12 @@
 
 ## 🤖 Robotics, AI & Automation Stack
 
-#### ⚙️ Robotics Platforms & Tools
+#### ⚙️ Robotics Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,ros,opencv" />
 </p>
 
-#### 🧠 Machine Learning & Data Science
+#### 🧠 AI, ML & Data Science
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,numpy,pandas,matplotlib" />
 </p>
@@ -70,7 +78,7 @@
 
 ---
 
-### 🤝 Connect With Me
+### 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
   <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
@@ -80,5 +88,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+Robots+with+Intelligence...;Exploring+AI+and+Automation;Coding+the+Future+One+Step+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=Building+Robots+with+Intelligence...;Exploring+AI+and+Automation;Coding+the+Future+One+Step+at+a+Time;Learning%2C+Creating%2C+and+Innovating+Every+Day" alt="Typing SVG" />
 </p>
