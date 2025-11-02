@@ -90,5 +90,6 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&background=0A192F&center=true&vCenter=true&width=550&lines=Building+Robots+with+Intelligence...;Exploring+AI+and+Automation;Coding+the+Future+One+Step+at+a+Time;Learning%2C+Creating%2C+and+Innovating+Every+Day" alt="Typing SVG with Background" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&background=0A192F&center=true&vCenter=true&width=550&lines=Building+Robots+with+Intelligence...;Exploring+AI+and+Automation;Coding+the+Future+One+Step+at+a+Time;Learning%2C+Creating%2C+and+Innovating+Every+Day;Be+Greater+Than+Average" alt="Typing SVG with Background" />
 </p>
+
