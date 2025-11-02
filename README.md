@@ -16,16 +16,37 @@
 ---
 
 ### 🧠 About Me
-💡 Passionate about **robotics**, **AI**, and **embedded systems**.  
+💡 Passionate about **robotics**, **AI**, and **software engineering**.  
 🚀 Exploring **Machine Learning**, **ROS**, and **Computer Vision**.  
-⚙️ Skilled in combining **hardware** and **software** for real-world automation.  
-🌱 Always improving and sharing knowledge with the community.  
+🤖 Skilled in **Arduino**, **Python**, and **C++** for embedded automation.  
+🌱 Always curious, always building something new.  
 
 ---
 
-### 🧩 Languages & Tools
+## 💻 Programming Stack
+
+#### 🧩 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,arduino,linux,vscode,github,git,aws,docker,mysql,flutter,tensorflow,pytorch,ros&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,flutter" />
+</p>
+
+#### 🧰 Development Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,docker,aws,mysql,sqlite" />
+</p>
+
+---
+
+## 🤖 Robotics, AI & Automation Stack
+
+#### ⚙️ Robotics Platforms & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,ros,opencv" />
+</p>
+
+#### 🧠 Machine Learning & Data Science
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,numpy,pandas,matplotlib" />
 </p>
 
 ---
@@ -53,4 +74,10 @@
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
   <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=435&
