@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tumblr.com%2Flillliko%2F623899118605041664%2Fakame-ga-kill-gifs&psig=AOvVaw3bdFeWfdv3l7E0NrmjIDb6&ust=1762170391530000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIi-4vOy05ADFQAAAAAdAAAAABAd" alt="Animated Banner" width="100%" />
+  <img src="https://64.media.tumblr.com/48056938a0ab0afd2d90b38de5dedc84/c6d28ea69f9f5dc1-89/s1280x1920/f946a116badc922a6a1cf43fcddb32768fc781b4.gifv" alt="Animated Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">Kiyomilara </span></h1>
